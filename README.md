@@ -10,6 +10,7 @@ My team of two students chose to combine publicly available mining location data
 ## Public Data Sources
 * Mining locations and information: https://zenodo.org/records/7369478
 Scroll down to “Files” and download “open_database_mine_production.zip” file
+These data can also be found here: https://github.com/fineprint-global/compilation_mining_data
 
 * List of Goods: US Department of Labor 2022 LIST OF GOODS PRODUCED BY CHILD LABOR OR FORCED LABOR, The 2022 TVPRA List by Country
 DATA: https://www.dol.gov/sites/dolgov/files/ILAB/child_labor_reports/tda2022/2022ListofGoodsExcel.xlsx
